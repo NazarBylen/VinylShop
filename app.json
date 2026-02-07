@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "VinylShop",
+    "slug": "VinylShop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/popularnow/1.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/popularnow/1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/popularnow/1.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/popularnow/1.png"
+    }
+  }
+}
